@@ -31,7 +31,6 @@ public class BoardRestController {
 
         Map<String, Object> result = new HashMap<String, Object>();
         result.put("code",200);
-        result.put("")
         return "board/create";
     }
 
